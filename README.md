@@ -16,6 +16,7 @@ This is a Streamlit-based diet recommendation system that uses machine learning 
 |--  food_image.jpeg	
 |--  requirements.txt                   # Python dependencies
 |--  README.md
+|--  README.pdf
 ```
 
 ## How to Run 
